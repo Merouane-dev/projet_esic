@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet ESIC
 
 ## Features
@@ -157,3 +158,6 @@ frontend
     ├── index.tsx   # entrypoint
     └── App.tsx     # handles routing
 ```
+=======
+# projet_esic
+>>>>>>> 4e52fe9f37cf6918103c6549df8165d5515b53f4
